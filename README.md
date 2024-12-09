@@ -29,7 +29,7 @@ The following tasks were completed on behalf of Jamie:
 
 2. **Created foundational HTML files**  
    - Added the following files to the repository:
-     - `home.html`
+     - `index.html`
      - `about_us.html`
      - `events.html`
      - `contact_us.html`
